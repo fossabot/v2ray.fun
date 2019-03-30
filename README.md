@@ -61,6 +61,7 @@ bash -c "$(curl -fsSL https://git.io/vpOep)"
 ## 截图
 
 ![1](1.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZhai2333%2Fv2ray.fun.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FZhai2333%2Fv2ray.fun?ref=badge_shield)
 
 ![2](2.png)
 
@@ -117,3 +118,7 @@ V2ray : [https://v2ray.com](https://v2ray.com)
 # Buy me a coffee
 
 ![donation](https://cloud.githubusercontent.com/assets/4246425/24827592/553bc732-1c7f-11e7-8207-284cccbc2e5c.jpg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZhai2333%2Fv2ray.fun.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FZhai2333%2Fv2ray.fun?ref=badge_large)
